@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Nesrine Bouzid
 
-<!--
-**nesrine-aibot/nesrine-aibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Enthusiast, AI Algorithm Developer, and passionate about Math and Computer Theory. I’m currently diving deep into the world of AI and exploring its various applications.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about advanced AI algorithms, and exploring the latest trends in AI and machine learning.
+- 🤖 I love creating AI-driven applications and solving problems with innovative solutions.
+- 💻 I enjoy working with various frameworks and tools to build both frontend and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[LinkedIn](https://www.linkedin.com/in/nesrine-bouzid-b462b3252/)  
+📫 You can reach me at: nesrine.bouzid@ensia.edu.dz
+
+## Languages & Tools:
+### Programming Languages:
+- C++, Dart, Java, JavaScript, Kotlin, PHP, Python , Arduino
+
+### Frameworks:
+- React, Node.js, Next.js, Flutter, Flask, Django, Express
+
+### Tools & Technologies:
+- Git, Linux, MySQL, PostgreSQL, Supabase, Oracle
+
+### AI/ML Libraries:
+- Pandas, Scikit-Learn, Seaborn, TensorFlow
+
+## GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=nesrine-bouzid&show_icons=true&count_private=true&hide_title=true)
+
+## Writings & Projects:
+- Check out my repositories for AI algorithms and other exciting projects!
+
+---
+
+### Fun Fact:
+I believe in the power of AI to solve real-world problems, and I'm always eager to learn and share knowledge with the community. I’m always open to collaborating on interesting projects related to AI, machine learning, and computer science!
