@@ -23,8 +23,14 @@ I'm an AI Enthusiast, AI Algorithm Developer, and passionate about Math and Comp
 ### AI/ML Libraries:
 - Pandas, Scikit-Learn, Seaborn, TensorFlow
 
-## GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=nesrine-bouzid&show_icons=true&count_private=true&hide_title=true)
+
+## GitHub Stats
+
+![Nesrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesrine-aibot&show_icons=true&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nesrine-aibot)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nesrine-aibot)
 
 ## Writings & Projects:
 - Check out my repositories for AI algorithms and other exciting projects!
