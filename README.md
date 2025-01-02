@@ -8,6 +8,7 @@ I'm an AI Enthusiast, AI Algorithm Developer, and passionate about Math and Comp
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/nesrine-bouzid-b462b3252/)  
+
 📫 You can reach me at: nesrine.bouzid@ensia.edu.dz
 
 ## Languages & Tools:
